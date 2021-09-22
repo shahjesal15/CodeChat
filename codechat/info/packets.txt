@@ -1,0 +1,6 @@
+
+// structure of the packets
+{
+	"username":"",
+	"content":"key message IV-padding"
+}
