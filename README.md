@@ -12,3 +12,6 @@ Libraries:
   3. Asyncio
   4. Select
   5. Signal
+
+Link to Exe (WIN):
+https://drive.google.com/drive/folders/1nW0ETKMyhYP8HiS1qwkbD871m7BMSc0-?usp=sharing
